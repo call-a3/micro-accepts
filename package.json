@@ -1,7 +1,7 @@
 {
   "name": "micro-accepts",
   "version": "0.0.0-development",
-  "description": "A utility package which allows you to clean up before node exits",
+  "description": "A middleware that checks for supported content-types in the accept header",
   "main": "lib/index.js",
   "module": "src/index.js",
   "scripts": {
